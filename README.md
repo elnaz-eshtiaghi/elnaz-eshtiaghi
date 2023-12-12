@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/elnaz-eshtiaghi](https://github.com/elnaz-eshtiaghi)
 
-- 💬 Ask me about **html5 , css3 , sass , bootstrap , tailwind**
+- 💬 Ask me about **html5 , css3 , sass , bootstrap , tailwind ,javascript**
 
 - 📫 How to reach me **elnaz.eshtiyaghi@gmail.com**
 
