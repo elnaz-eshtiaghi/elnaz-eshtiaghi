@@ -51,13 +51,13 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=elnaz-eshtiaghitheme=midnight-purple&no-frame=true&no-bg=false&center=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=elnaz-eshtiaghi&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaz-eshtiaghi&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color==E9DEFF&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9DEFF&height=120&section=footer"/>
 </a>
 
