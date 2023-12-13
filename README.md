@@ -37,16 +37,16 @@
 
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sama-babaee-web&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sama-babaee-web&theme=midnight-purple&center=true&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sama-babaee-web&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=elnaz-eshtiaghi&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elnaz-eshtiaghi&theme=midnight-purple&center=true&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elnaz-eshtiaghi&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 ## 🏆 GitHub Trophies
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaz-eshtiaghi&show_icons=true&locale=en&layout=compact" alt="elnaz-eshtiaghi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaz-eshtiaghi&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false&show_icons=true&locale=en&layout=compact" alt="elnaz-eshtiaghi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elnaz-eshtiaghi&show_icons=true&locale=en" alt="elnaz-eshtiaghi" /></p>
 
