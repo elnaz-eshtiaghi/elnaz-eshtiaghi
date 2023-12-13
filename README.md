@@ -46,22 +46,16 @@
 ## 🏆 GitHub Trophies
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaz-eshtiaghi&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false&show_icons=true&locale=en&layout=compact" alt="elnaz-eshtiaghi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elnaz-eshtiaghi&show_icons=true&locale=en" alt="elnaz-eshtiaghi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnaz-eshtiaghi&" alt="elnaz-eshtiaghi" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaz-eshtiaghi&show_icons=true&locale=en&layout=compact" alt="elnaz-eshtiaghi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elnaz-eshtiaghi&show_icons=true&locale=en" alt="elnaz-eshtiaghi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnaz-eshtiaghi&" alt="elnaz-eshtiaghi" /></p>
 
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
-</a>
+
+![](https://github-profile-trophy.vercel.app/?username=elnaz-eshtiaghi-web&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaz-eshtiaghi&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
+
 
 
