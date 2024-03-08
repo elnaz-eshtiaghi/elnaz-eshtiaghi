@@ -1,11 +1,11 @@
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9DEFF&height=120&section=header"/>
+  <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=6F2DA8&height=120&section=header"/>
 </a>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Elnaz+Eshtiaghi...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=ffffff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Elnaz+Eshtiaghi...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7">
   </a>
 </h1>
 
@@ -55,9 +55,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaz-eshtiaghi&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaz-eshtiaghi&label=Profile%20views&color=fe428e&style=plastic" alt="elnaz-eshtiaghi" /></p>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9DEFF&height=120&section=footer"/>
+  <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=6F2DA8&height=120&section=footer"/>
 </a>
 
